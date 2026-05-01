@@ -6,8 +6,6 @@ If you watch Formula 1, you know the race isn't just happening on the track, it'
 
 I wanted to see if I could build a Machine Learning pipeline that thinks like an F1 strategist. This repository is an end-to-end data science project that pulls live telemetry, predicts lap times based on track physics, automatically flags botched pit stops, and wraps it all into a live, interactive web dashboard.
 
-**🌟 [Click here to view the live Streamlit Web App!]** _(Add your link here once deployed)_
-
 ---
 
 ## 🏗️ What's Under the Hood?
@@ -61,6 +59,6 @@ Want to test Fernando Alonso's predicted pace on 20-lap-old Hard tires?
 **1. Clone this repository:**
 
 ```bash
-git clone [https://github.com/Pratham-R-Gowda/your-repo-name.git](https://github.com/Pratham-R-Gowda/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/Pratham-R-Gowda/Live-Race-Strategy-Analytics-Engine.git](https://github.com/Pratham-R-Gowda/Live-Race-Strategy-Analytics-Engine.git)
+cd Live-Race-Strategy-Analytics-Engine
 ```
