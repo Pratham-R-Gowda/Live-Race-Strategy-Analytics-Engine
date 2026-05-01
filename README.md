@@ -2,7 +2,7 @@
 
 ## 👋 What is this?
 
-If you watch Formula 1, you know the race isn't just happening on the track—it's happening on the pit wall.
+If you watch Formula 1, you know the race isn't just happening on the track, it's happening on the pit wall.
 
 I wanted to see if I could build a Machine Learning pipeline that thinks like an F1 strategist. This repository is an end-to-end data science project that pulls live telemetry, predicts lap times based on track physics, automatically flags botched pit stops, and wraps it all into a live, interactive web dashboard.
 
