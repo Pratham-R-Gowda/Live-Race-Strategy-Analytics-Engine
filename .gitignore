@@ -1,0 +1,14 @@
+f1_cache/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.model
+.streamlit/
+.DS_Store
+Thumbs.db
+*.pkl
