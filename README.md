@@ -59,6 +59,6 @@ Want to test Fernando Alonso's predicted pace on 20-lap-old Hard tires?
 **1. Clone this repository:**
 
 ```bash
-git clone [https://github.com/Pratham-R-Gowda/Live-Race-Strategy-Analytics-Engine.git](https://github.com/Pratham-R-Gowda/Live-Race-Strategy-Analytics-Engine.git)
+git clone https://github.com/Pratham-R-Gowda/Live-Race-Strategy-Analytics-Engine.git
 cd Live-Race-Strategy-Analytics-Engine
 ```
